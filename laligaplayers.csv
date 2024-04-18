@@ -1,0 +1,106 @@
+Name,Club,Position,Appearances,Goals,Assists,Goals_per_match,xG,Pass_completion_rate,Big_chances_created,Yellow_cards,Red_cards
+Karim Benzema,Real Madrid,Forward,45,30,15,0.67,28.5,82%,10,3,0
+Thibaut Courtois,Real Madrid,Goalkeeper,50,0,0,0,0,88%,0,1,0
+Sergio Ramos,Real Madrid,Defender,40,5,2,0.125,4.5,92%,3,8,1
+Luka Modric,Real Madrid,Midfielder,47,8,12,0.17,9.7,89%,7,5,0
+Eden Hazard,Real Madrid,Forward,35,12,8,0.34,14.2,81%,6,2,0
+Toni Kroos,Real Madrid,Midfielder,48,6,15,0.125,7.8,91%,9,3,0
+Raphael Varane,Real Madrid,Defender,42,3,1,0.071,2.5,88%,1,6,0
+Casemiro,Real Madrid,Midfielder,46,4,3,0.087,3.2,85%,5,10,0
+Vinicius Junior,Real Madrid,Forward,43,10,9,0.23,11.4,78%,8,4,0
+Dani Carvajal,Real Madrid,Defender,37,1,6,0.027,2.3,87%,4,7,0
+Marcelo,Real Madrid,Defender,30,2,7,0.067,3.6,84%,6,3,0
+Ferland Mendy,Real Madrid,Defender,38,1,4,0.026,1.8,86%,3,5,0
+Rodrygo,Real Madrid,Forward,33,7,5,0.21,8.2,79%,6,2,0
+Lucas Vazquez,Real Madrid,Midfielder,36,3,10,0.083,4.1,83%,9,4,0
+Isco,Real Madrid,Midfielder,28,4,6,0.143,5.7,88%,5,1,0
+Federico Valverde,Real Madrid,Midfielder,34,5,3,0.147,5.3,85%,4,5,0
+Nacho Fernandez,Real Madrid,Defender,31,1,2,0.032,1.6,89%,2,3,0
+Alvaro Odriozola,Real Madrid,Defender,25,0,2,0,0.9,82%,1,2,0
+Eder Militao,Real Madrid,Defender,29,1,0,0.034,1.2,87%,1,4,0
+Luka Jovic,Real Madrid,Forward,20,3,1,0.15,2.7,77%,3,0,0
+Andriy Lunin,Real Madrid,Goalkeeper,5,0,0,0,0,90%,0,0,0
+Mariano Diaz,Real Madrid,Forward,15,2,1,0.133,1.8,80%,2,1,0
+Antonio Blanco,Real Madrid,Midfielder,8,0,0,0,0.4,87%,0,1,0
+Diego Altube,Real Madrid,Goalkeeper,1,0,0,0,0,85%,0,0,0
+Miguel Gutierrez,Real Madrid,Defender,6,0,0,0,0.3,88%,0,0,0
+Victor Chust,Real Madrid,Defender,4,0,0,0,0.2,86%,0,0,0
+Sergio Arribas,Real Madrid,Midfielder,7,0,0,0,0.3,84%,0,0,0
+Marvin Park,Real Madrid,Forward,3,0,0,0,0.1,79%,0,0,0
+Carlos Dotor,Real Madrid,Defender,2,0,0,0,0.1,82%,0,0,0
+Ivan Morante,Real Madrid,Midfielder,1,0,0,0,0.1,88%,0,0,0
+Pablo Ramon,Real Madrid,Defender,2,0,0,0,0.1,89%,0,0,0
+Sergio Santos,Real Madrid,Forward,1,0,0,0,0.1,75%,0,0,0
+Diego Soto,Real Madrid,Forward,1,0,0,0,0.1,77%,0,0,0
+Jorge Alastuey,Real Madrid,Midfielder,1,0,0,0,0.1,83%,0,0,0
+Javi Hernandez,Real Madrid,Forward,1,0,0,0,0.1,78%,0,0,0
+Alejandro Fuentes,Real Madrid,Forward,1,0,0,0,0.1,76%,0,0,0
+Raul Moro,Real Madrid,Forward,1,0,0,0,0.1,80%,0,0,0
+Pablo Rodriguez,Real Madrid,Forward,1,0,0,0,0.1,79%,0,0,0
+Lionel Messi,Barcelona,Forward,50,45,25,0.9,40.2,85%,20,3,0
+Marc-André ter Stegen,Barcelona,Goalkeeper,48,0,0,0,0,90%,0,2,0
+Gerard Piqué,Barcelona,Defender,42,4,2,0.095,3.8,91%,2,9,1
+Jordi Alba,Barcelona,Defender,47,3,12,0.064,6.1,87%,15,5,0
+Sergio Busquets,Barcelona,Midfielder,45,1,10,0.022,2.5,90%,7,6,0
+Antoine Griezmann,Barcelona,Forward,46,20,10,0.435,18.6,82%,10,1,0
+Frenkie de Jong,Barcelona,Midfielder,49,5,15,0.102,7.3,88%,12,4,0
+Ansu Fati,Barcelona,Forward,38,18,8,0.474,15.9,78%,9,0,0
+Ousmane Dembélé,Barcelona,Forward,41,12,10,0.293,13.7,77%,11,2,0
+Sergi Roberto,Barcelona,Defender,35,1,5,0.029,2.3,85%,6,3,0
+Clement Lenglet,Barcelona,Defender,40,2,0,0.05,1.7,88%,1,7,0
+Miralem Pjanic,Barcelona,Midfielder,32,2,6,0.063,3.4,89%,6,1,0
+Philippe Coutinho,Barcelona,Midfielder,34,7,9,0.206,9.8,80%,8,0,0
+Martin Braithwaite,Barcelona,Forward,31,6,3,0.194,5.6,78%,5,1,0
+Ronald Araujo,Barcelona,Defender,28,1,0,0.036,0.8,87%,0,6,0
+Francisco Trincão,Barcelona,Forward,29,4,3,0.138,4.1,79%,3,0,0
+Neto,Barcelona,Goalkeeper,7,0,0,0,0,89%,0,0,0
+Riqui Puig,Barcelona,Midfielder,14,1,2,0.071,1.2,88%,2,0,0
+Junior Firpo,Barcelona,Defender,15,0,1,0,0.4,82%,1,1,0
+Óscar Mingueza,Barcelona,Defender,12,0,0,0,0.3,85%,0,2,0
+Konrad de la Fuente,Barcelona,Forward,10,0,1,0,0.8,76%,1,0,0
+Iñaki Peña,Barcelona,Goalkeeper,3,0,0,0,0,88%,0,0,0
+Matheus Fernandes,Barcelona,Midfielder,2,0,0,0,0.1,87%,0,0,0
+Carles Aleñá,Barcelona,Midfielder,1,0,0,0,0.1,84%,0,0,0
+Alex Collado,Barcelona,Forward,1,0,0,0,0.1,78%,0,0,0
+Sergiño Dest,Barcelona,Defender,20,1,3,0.05,2.5,83%,4,1,0
+Emerson,Barcelona,Defender,18,0,2,0,1.2,86%,2,2,0
+Oscar Plano,Barcelona,Forward,1,0,0,0,0.1,76%,0,0,0
+Gerard Gumbau,Barcelona,Midfielder,1,0,0,0,0.1,83%,0,0,0
+Ramon Monchu,Barcelona,Midfielder,1,0,0,0,0.1,82%,0,0,0
+Lionel Messi Jr.,Barcelona,Forward,1,0,0,0,0.1,79%,0,0,0
+Jandro Orellana,Barcelona,Midfielder,1,0,0,0,0.1,84%,0,0,0
+Álvaro Sanz,Barcelona,Forward,1,0,0,0,0.1,80%,0,0,0
+Luis Suárez,Atletico Madrid,Forward,48,35,12,0.729,32.5,80%,18,4,0
+Jan Oblak,Atletico Madrid,Goalkeeper,50,0,0,0,0,89%,0,1,0
+Koke,Atletico Madrid,Midfielder,49,6,15,0.122,8.7,87%,10,7,0
+Marcos Llorente,Atletico Madrid,Midfielder,46,10,10,0.217,12.3,82%,9,5,0
+João Félix,Atletico Madrid,Forward,42,20,8,0.476,19.4,76%,14,2,0
+Stefan Savic,Atletico Madrid,Defender,45,3,1,0.067,2.2,88%,1,7,1
+José Giménez,Atletico Madrid,Defender,43,2,1,0.047,1.6,86%,0,8,0
+Ángel Correa,Atletico Madrid,Forward,44,9,11,0.205,10.8,79%,12,2,0
+Saúl Ñíguez,Atletico Madrid,Midfielder,47,5,7,0.106,7.1,84%,8,6,0
+Renan Lodi,Atletico Madrid,Defender,42,1,5,0.024,2.3,82%,6,3,0
+Kieran Trippier,Atletico Madrid,Defender,39,2,8,0.051,3.6,83%,7,4,0
+Mario Hermoso,Atletico Madrid,Defender,37,1,2,0.027,1.5,89%,1,5,0
+Héctor Herrera,Atletico Madrid,Midfielder,33,3,4,0.091,3.7,86%,4,3,0
+Thomas Lemar,Atletico Madrid,Midfielder,30,2,5,0.067,4.8,80%,5,2,0
+Yannick Carrasco,Atletico Madrid,Midfielder,32,6,7,0.188,8.3,77%,9,2,0
+Felipe,Atletico Madrid,Defender,31,1,0,0.032,1.2,87%,0,6,0
+Moussa Dembélé,Atletico Madrid,Forward,25,4,2,0.16,3.5,78%,3,0,0
+Geoffrey Kondogbia,Atletico Madrid,Midfielder,23,1,1,0.043,2.1,85%,2,2,0
+Ivo Grbić,Atletico Madrid,Goalkeeper,5,0,0,0,0,90%,0,0,0
+Sime Vrsaljko,Atletico Madrid,Defender,9,0,0,0,0.3,85%,0,2,0
+Santiago Arias,Atletico Madrid,Defender,7,0,0,0,0.2,82%,0,1,0
+Vitolo,Atletico Madrid,Midfielder,6,0,1,0,0.7,81%,1,0,0
+Nehuén Pérez,Atletico Madrid,Defender,5,0,0,0,0.1,88%,0,1,0
+Manu Sánchez,Atletico Madrid,Defender,4,0,0,0,0.1,86%,0,0,0
+Ricard Sánchez,Atletico Madrid,Defender,2,0,0,0,0.1,84%,0,0,0
+Ivan Saponjic,Atletico Madrid,Forward,2,0,0,0,0.1,77%,0,0,0
+Sergio Camello,Atletico Madrid,Forward,1,0,0,0,0.1,75%,0,0,0
+Borja Garcés,Atletico Madrid,Forward,1,0,0,0,0.1,78%,0,0,0
+Miguel San Román,Atletico Madrid,Goalkeeper,1,0,0,0,0,87%,0,0,0
+Rafa Muñoz,Atletico Madrid,Goalkeeper,1,0,0,0,0,88%,0,0,0
+Alex Dos Santos,Atletico Madrid,Goalkeeper,1,0,0,0,0,89%,0,0,0
+Óscar Castro,Atletico Madrid,Goalkeeper,1,0,0,0,0,86%,0,0,0
+Diego Serrano,Atletico Madrid,Goalkeeper,1,0,0,0,0,90%,0,0,0
+Alberto Fernández,Atletico Madrid,Goalkeeper,1,0,0,0,0,87%,0,0,0
